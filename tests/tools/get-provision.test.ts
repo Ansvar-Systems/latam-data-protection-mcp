@@ -47,12 +47,12 @@ describe('get_provision', () => {
     expect(result.message).toContain('No provision found');
   });
 
-  it('includes _meta in response', () => {
+  it('includes _metadata in response', () => {
     const result = instance.callTool('get_provision', {
       country: 'BR',
       article: '1',
     }) as any;
-    expect(result._meta).toBeDefined();
-    expect(result._meta.disclaimer).toBeTruthy();
+    expect(result._metadata).toBeDefined();
+    expect(result._metadata.disclaimer).toBeTruthy();
   });
 });

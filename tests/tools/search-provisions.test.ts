@@ -69,9 +69,9 @@ describe('search_provisions', () => {
     expect(result.message).toContain('special characters');
   });
 
-  it('includes _meta disclaimer in response', () => {
-    const result = instance.callTool('search_provisions', { query: 'privacy' }) as any;
-    expect(result._meta).toBeDefined();
-    expect(result._meta.disclaimer).toContain('Not legal advice');
+  it('includes _metadata disclaimer in response', () => {
+    const result = instance.callTool('search_provisions', { query: 'dados' }) as any;
+    expect(result._metadata).toBeDefined();
+    expect(result._metadata.disclaimer).toContain('Not legal advice');
   });
 });
