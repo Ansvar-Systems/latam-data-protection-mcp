@@ -1,0 +1,304 @@
+{
+  "law_id": "uy-law-18331",
+  "country_code": "UY",
+  "title": "Ley de Protección de Datos Personales y Acción de Habeas Data",
+  "official_name": "Ley 18.331",
+  "year": 2008,
+  "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+  "provisions": [
+    {
+      "article_ref": "1",
+      "title": "Derecho Humano",
+      "content": "El derecho a la protección de datos personales es inherente a la persona humana, por lo que está comprendido en el artículo 72 de la Constitución de la República.",
+      "topic": "scope"
+    },
+    {
+      "article_ref": "2",
+      "title": "Ámbito subjetivo",
+      "content": "El derecho a la protección de los datos personales se aplicará por extensión a las personas jurídicas, en cuanto corresponda.",
+      "topic": "scope"
+    },
+    {
+      "article_ref": "3",
+      "title": "Ámbito objetivo",
+      "content": "El régimen de la presente ley será de aplicación a los datos personales registrados en cualquier soporte que los haga susceptibles de tratamiento, y a toda modalidad de uso posterior de estos datos por los ámbitos público o privado.\n\nNo será de aplicación a las siguientes bases de datos:\n\n1) A las mantenidas por personas físicas en el ejercicio de actividades exclusivamente personales o domésticas.\n\n2) Las que tengan por objeto la seguridad pública, la defensa, la seguridad del Estado y sus actividades en materia penal, investigación y represión del delito.\n\n3) A las bases de datos creadas y reguladas por leyes especiales.",
+      "topic": "scope"
+    },
+    {
+      "article_ref": "4",
+      "title": "Definiciones",
+      "content": "A los fines de la presente ley se entiende por:\n\nA) Base de datos: conjunto organizado de datos personales que sean objeto de tratamiento o procesamiento, electrónico o no, cualquiera que fuere la modalidad de su formación, almacenamiento, organización o acceso.\n\nB) Comunicación de datos: toda revelación de datos realizada a una persona distinta del titular de los datos.\n\nC) Consentimiento del titular: toda manifestación de voluntad, libre, inequívoca, específica e informada, mediante la cual el titular consienta el tratamiento de datos personales que le refieren.\n\nD) Dato personal: información de cualquier tipo referida a personas físicas o jurídicas determinadas o determinables.\n\nE) Dato sensible: datos personales que revelen origen racial y étnico, preferencias políticas, convicciones religiosas o morales, afiliación sindical e informaciones referentes a la salud o a la vida sexual.\n\nF) Destinatario: toda persona física o jurídica, pública o privada, que recibiere comunicación de datos, se trate o no de un tercero.\n\nG) Disociación de datos: todo tratamiento de datos personales de manera que la información obtenida no pueda vincularse a persona determinada o determinable.\n\nH) Encargado del tratamiento: persona física o jurídica, pública o privada, que sola o en conjunto con otros trate datos personales por cuenta del responsable de la base de datos o del tratamiento.\n\nI) Fuentes accesibles al público: aquellas bases de datos cuya consulta puede ser realizada por cualquier persona, no impedida por una norma limitativa, o sin más exigencia que, en su caso, el abono de una contraprestación.\n\nJ) Tercero: la persona física o jurídica, pública o privada, distinta del titular del dato, del responsable de la base de datos o tratamiento, del encargado y de las personas autorizadas para tratar los datos bajo la autoridad directa del responsable o del encargado del tratamiento.\n\nK) Responsable de la base de datos o del tratamiento: persona física o jurídica, pública o privada, propietaria de la base de datos o que decide sobre la finalidad, contenido y uso del tratamiento.\n\nL) Titular de los datos: persona cuyos datos sean objeto de un tratamiento incluido dentro del ámbito de acción de la presente ley.\n\nM) Tratamiento de datos: operaciones y procedimientos sistemáticos, de carácter automatizado o no, que permitan el procesamiento de datos personales, así como también su cesión a terceros a través de comunicaciones, consultas, interconexiones o transferencias.\n\nN) Usuario de datos: toda persona, pública o privada, que realice a su arbitrio el tratamiento de datos, ya sea en una base de datos propia o a través de conexión con los mismos.\n\nÑ) Datos biométricos: datos personales obtenidos a partir de un tratamiento técnico específico, relativos a las características físicas, fisiológicas o conductuales de una persona física que permitan o confirmen la identificación única de dicha persona, como imágenes faciales, datos dactiloscópicos o de reconocimiento de voz.",
+      "topic": "definitions"
+    },
+    {
+      "article_ref": "5",
+      "title": "Valor y fuerza",
+      "content": "La actuación de los responsables de las bases de datos, tanto públicos como privados, y, en general, de todos quienes actúen en relación a datos personales de terceros, deberá ajustarse a los siguientes principios generales:\n\nA) Legalidad.\n\nB) Veracidad.\n\nC) Finalidad.\n\nD) Previo consentimiento informado.\n\nE) Seguridad de los datos.\n\nF) Reserva.\n\nG) Responsabilidad.",
+      "topic": "legal_basis"
+    },
+    {
+      "article_ref": "6",
+      "title": "Principio de legalidad",
+      "content": "La formación de bases de datos será lícita cuando se encuentren debidamente inscriptas, observando en su operación los principios que establecen la presente ley y las reglamentaciones que se dicten en su consecuencia.\n\nLas bases de datos no pueden tener finalidades violatorias de derechos humanos o contrarias a las leyes o a la moral pública.",
+      "topic": "legal_basis"
+    },
+    {
+      "article_ref": "7",
+      "title": "Principio de veracidad",
+      "content": "Los datos personales que se recojan a los efectos de su tratamiento deberán ser veraces, adecuados, ecuánimes y no excesivos en relación con la finalidad para la cual se hubieren obtenido. La recolección de datos no podrá hacerse por medios desleales, fraudulentos, abusivos, extorsivos o en forma contraria a las disposiciones a la presente ley.\n\nLos datos deberán ser exactos y actualizarse en el caso en que ello fuere necesario.\n\nCuando se constate la inexactitud o falsedad de los datos, el responsable de la base de datos en cuestión deberá proceder a su rectificación, supresión o actualización.",
+      "topic": "legal_basis"
+    },
+    {
+      "article_ref": "8",
+      "title": "Principio de finalidad",
+      "content": "Los datos objeto de tratamiento no podrán ser utilizados para finalidades distintas o incompatibles con aquellas que motivaron su obtención.\n\nLos datos deberán ser eliminados cuando hayan dejado de ser necesarios o pertinentes a los fines para los cuales hubieren sido recolectados.\n\nLa reglamentación determinará los casos y procedimientos en los que, por excepción, y atendidos los valores históricos, estadísticos o científicos, y de acuerdo con la legislación específica, se conserven datos personales aun cuando haya perimido tal necesidad o pertinencia.\n\nTampoco podrán comunicarse datos entre bases de datos, sin que medie ley o previo consentimiento informado del titular.",
+      "topic": "legal_basis"
+    },
+    {
+      "article_ref": "9",
+      "title": "Principio del previo consentimiento informado",
+      "content": "El tratamiento de datos personales es lícito cuando el titular hubiere prestado su consentimiento libre, previo, expreso e informado, el que deberá documentarse.\n\nEl referido consentimiento prestado con otras declaraciones, deberá figurar en forma expresa y destacada, previa notificación al requerido de datos de la información descrita en el artículo 13 de la presente ley.\n\nNo será necesario el previo consentimiento cuando:\n\nA) Los datos provengan de fuentes públicas de información, tales como registros o publicaciones en medios masivos de comunicación.\n\nB) Se recaben para el ejercicio de funciones propias de los poderes del Estado o en virtud de una obligación legal.\n\nC) Se trate de listados cuyos datos se limiten en el caso de personas físicas a nombres y apellidos, documento de identidad, nacionalidad, domicilio y fecha de nacimiento. En el caso de personas jurídicas, razón social, nombre de fantasía, registro único de contribuyentes, domicilio, teléfono e identidad de las personas a cargo de la misma.\n\nD) Deriven de una relación contractual, científica o profesional del titular de los datos, y sean necesarios para su desarrollo o cumplimiento.\n\nE) Se realice por personas físicas para su uso exclusivo personal, individual o doméstico.",
+      "topic": "consent"
+    },
+    {
+      "article_ref": "10",
+      "title": "Principio de seguridad de los datos",
+      "content": "El responsable o usuario de la base de datos debe adoptar las medidas que resultaren necesarias para garantizar la seguridad y confidencialidad de los datos personales. Dichas medidas tendrán por objeto evitar su adulteración, pérdida, consulta o tratamiento no autorizado así como detectar desviaciones de información, intencionales o no, ya sea que los riesgos provengan de la acción humana o del medio técnico utilizado.\n\nQueda prohibido registrar datos personales en bases de datos que no reúnan condiciones técnicas de integridad y seguridad.",
+      "topic": "security"
+    },
+    {
+      "article_ref": "11",
+      "title": "Principio de reserva",
+      "content": "Aquellas personas físicas o jurídicas que obtuvieren legítimamente información proveniente de una base de datos que les brinde tratamiento, están obligadas a utilizarla en forma reservada y exclusivamente para las operaciones habituales de su giro o actividad, estando prohibida toda difusión de la misma a terceros.\n\nLas personas que, por su situación laboral u otra forma de relación con el responsable de una base de datos, tuvieren acceso o intervengan en cualquier fase del tratamiento de datos personales, están obligadas a guardar estricto secreto profesional sobre los mismos (artículo 302 del Código Penal), cuando hayan sido recogidos de fuentes no accesibles al público. Lo previsto no será de aplicación en los casos de orden de la Justicia competente, o si mediare consentimiento del titular.\n\nEsta obligación subsistirá aun después de finalizada la relación con el responsable de la base de datos.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "12",
+      "title": "Principio de responsabilidad",
+      "content": "El responsable de la base de datos o tratamiento y el encargado, en su caso, serán responsables de la violación de las disposiciones de la presente ley.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "13",
+      "title": "Derecho de información frente a la recolección de datos",
+      "content": "Cuando se recaben datos personales se deberá informar previamente a sus titulares en forma expresa, precisa e inequívoca:\n\nA) La finalidad para la que serán tratados y quiénes pueden ser sus destinatarios o clase de destinatarios.\n\nB) La existencia de la base de datos, electrónico o de cualquier otro tipo, de que se trate y la identidad y domicilio de su responsable.\n\nC) El carácter obligatorio o facultativo de las respuestas al cuestionario que se le proponga, en especial en cuanto a los datos sensibles.\n\nD) Las consecuencias de proporcionar los datos y de la negativa a hacerlo o su inexactitud.\n\nE) La posibilidad del titular de ejercer los derechos de acceso, rectificación, actualización, inclusión, supresión o lo que entienda corresponder previstos en los artículos 14 a 16 de la presente ley.\n\nF) La existencia o no de transferencias internacionales de datos.\n\nG) En el caso de tratamientos automatizados de datos regulados por el artículo 16 de la presente ley, los criterios de valoración, los procesos aplicados y la solución tecnológica o el programa utilizado.",
+      "topic": "data_subject_rights"
+    },
+    {
+      "article_ref": "14",
+      "title": "Derecho de acceso",
+      "content": "Todo titular de datos personales que previamente acredite su identificación con el documento de identidad o poder respectivo, tendrá derecho a obtener toda la información que sobre sí mismo se halle en bases de datos públicas o privadas. Este derecho de acceso sólo podrá ser ejercido en forma gratuita a intervalos de seis meses, salvo que se acredite un interés legítimo al efecto.\n\nLa información debe ser proporcionada dentro de los cinco días hábiles de haber sido solicitada. Vencido el plazo sin que el pedido sea satisfecho o si fuera denegado por alguna causa, quedará habilitada la acción de habeas data.\n\nLa información debe ser suministrada en forma clara, exenta de codificaciones y en su caso acompañada de una explicación de los términos que se utilicen, en lenguaje accesible al conocimiento medio de la población, y debe versar sobre la totalidad del registro perteneciente al titular, aun cuando el requerimiento sólo comprenda un aspecto de los datos personales. En ningún caso el informe podrá revelar datos pertenecientes a terceros, aun cuando se vinculen con el interesado.\n\nLa información, a opción del titular, podrá suministrarse por escrito, por medios electrónicos, telefónicos, de imagen, u otro idóneo a tal fin.",
+      "topic": "data_subject_rights"
+    },
+    {
+      "article_ref": "15",
+      "title": "Derecho de rectificación, actualización, inclusión o supresión",
+      "content": "Toda persona física o jurídica tendrá derecho a solicitar la rectificación, actualización, inclusión o supresión de los datos personales que le corresponda incluidos en una base de datos, al constatarse error o falsedad o exclusión en la información de que se trate.\n\nEl responsable de la base de datos o del tratamiento deberá proceder a la rectificación, actualización, inclusión o supresión, mediante las operaciones necesarias a tal fin en un plazo máximo de cinco días hábiles de recibida la solicitud por el titular del dato o, en su caso, informar de las razones por las que estime no corresponde.\n\nEl incumplimiento de esta obligación dentro del término acordado en el inciso precedente o el vencimiento del mismo sin que la solicitud del interesado sea satisfecha, habilitará al interesado a promover la acción de protección de datos personales o habeas data prevista en esta ley.\n\nNo procede la eliminación o supresión de datos personales salvo en aquellos casos en que se pudiere causar perjuicios a derechos o intereses legítimos de terceros, o cuando existiera una obligación legal de conservar los datos. La supresión no procede cuando pudiese causar perjuicios a derechos o intereses legítimos de terceros, o cuando existiera una obligación legal de conservar los datos.\n\nDurante el proceso de verificación, rectificación o supresión de datos el responsable de la base de datos, ante el requerimiento de terceros por acceder a informes sobre los mismos, deberá dejar constancia que dicha información se encuentra sometida a revisión.\n\nLa rectificación, actualización, inclusión, eliminación o supresión de datos personales cuando corresponda, se efectuará sin cargo alguno para el interesado.",
+      "topic": "data_subject_rights"
+    },
+    {
+      "article_ref": "16",
+      "title": "Derecho a la impugnación de valoraciones personales",
+      "content": "Las personas tienen derecho a no verse sometidas a una decisión con efectos jurídicos que les afecte de manera significativa, que se base en un tratamiento automatizado o no de datos destinado a evaluar determinados aspectos de su personalidad, como su rendimiento laboral, crédito, fiabilidad, conducta, entre otros.\n\nEl afectado podrá impugnar los actos administrativos o decisiones privadas que impliquen una valoración de su comportamiento, cuyo único fundamento sea un tratamiento de datos personales que ofrezca una definición de sus características o personalidad.\n\nEn este caso, el afectado tendrá derecho a obtener información del responsable de la base de datos tanto sobre los criterios de valoración como sobre el programa utilizado en el tratamiento que sirvió para adoptar la decisión manifestada en el acto.\n\nLa valoración sobre el comportamiento de las personas, basada en un tratamiento de datos, únicamente podrá tener valor probatorio a petición del afectado.",
+      "topic": "data_subject_rights"
+    },
+    {
+      "article_ref": "17",
+      "title": "Derechos referentes a la comunicación de datos",
+      "content": "Los datos personales objeto de tratamiento sólo podrán ser comunicados para el cumplimiento de los fines directamente relacionados con el interés legítimo del emisor y del destinatario y con el previo consentimiento del titular de los datos, al que se le debe informar sobre la finalidad de la comunicación e identificar al destinatario o los elementos que permitan hacerlo.\n\nEl consentimiento para la comunicación es revocable.\n\nEl consentimiento no será necesario cuando:\n\nA) Así lo disponga una ley de interés general;\n\nB) En los supuestos previstos en el artículo 9 de la presente ley;\n\nC) Se trate de datos personales relativos a la salud, sea necesario por razones de salud pública, de emergencia o para la realización de estudios epidemiológicos, en tanto se preserve la identidad de los titulares de los datos mediante mecanismos de disociación adecuados;\n\nD) Se hubiera aplicado un procedimiento de disociación de la información, de modo que los titulares de los datos sean inidentificables.\n\nEl destinatario quedará sujeto a las mismas obligaciones legales y reglamentarias del emisor y éste responderá solidaria y conjuntamente por la observancia de las mismas ante el organismo de control y el titular de los datos de que se trate.",
+      "topic": "data_subject_rights"
+    },
+    {
+      "article_ref": "18",
+      "title": "Datos sensibles",
+      "content": "Ninguna persona puede ser obligada a proporcionar datos sensibles. Éstos sólo podrán ser objeto de tratamiento con el consentimiento expreso y escrito del titular.\n\nLos datos sensibles sólo pueden ser recolectados y objeto de tratamiento cuando medien razones de interés general autorizadas por ley, o cuando el organismo solicitante tenga mandato legal para hacerlo. También podrán ser tratados con finalidades estadísticas o científicas cuando se disocien de sus titulares.\n\nQueda prohibida la formación de bases de datos que almacenen información que directa o indirectamente revele datos sensibles. Sin perjuicio de ello, la Iglesia Católica, las asociaciones religiosas y las organizaciones políticas y sindicales podrán llevar un registro de sus miembros.\n\nLos datos personales relativos a antecedentes penales o contravencionales sólo pueden ser objeto de tratamiento por parte de las autoridades públicas competentes, en el marco de las leyes y reglamentaciones respectivas.",
+      "topic": "legal_basis"
+    },
+    {
+      "article_ref": "19",
+      "title": "Datos relativos a la salud",
+      "content": "Los establecimientos sanitarios públicos o privados y los profesionales vinculados a las ciencias de la salud pueden recolectar y tratar los datos personales relativos a la salud física o mental de los pacientes que acudan a los mismos o que estén o hubieren estado bajo tratamiento de aquéllos, respetando los principios del secreto profesional, la normativa específica y lo establecido en la presente ley.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "20",
+      "title": "Datos relativos a las telecomunicaciones",
+      "content": "Los operadores que exploten redes públicas o que presten servicios de comunicaciones electrónicas disponibles al público deberán garantizar, en el ejercicio de su actividad, la protección de los datos personales conforme a la presente ley.\n\nAsimismo, deberán adoptar las medidas técnicas y de gestiones adecuadas para preservar la seguridad en la explotación de su red o en la prestación de sus servicios, con el fin de garantizar sus niveles de protección de los datos personales que sean exigidos por la normativa de desarrollo de esta ley en esta materia.\n\nEn caso de que exista un riesgo particular de violación de la seguridad de la red pública de comunicaciones electrónicas, el operador que explote dicha red o preste el servicio de comunicaciones electrónicas informará a los abonados sobre dicho riesgo y sobre las medidas a adoptar.\n\nLa regulación contenida en esta ley se entiende sin perjuicio de lo previsto en la normativa específica sobre telecomunicaciones relacionadas con la seguridad pública y la defensa nacional.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "21",
+      "title": "Datos relativos a bases de datos con fines de publicidad",
+      "content": "En la recopilación de domicilios, reparto de documentos, publicidad, prospección comercial, venta u otras actividades análogas, se podrán tratar datos que sean aptos para establecer perfiles determinados con fines promocionales, comerciales o publicitarios; o permitan establecer hábitos de consumo, cuando éstos figuren en documentos accesibles al público o hayan sido facilitados por los propios titulares u obtenidos con su consentimiento.\n\nEn los supuestos contemplados en el presente artículo, el titular de los datos podrá ejercer el derecho de acceso sin cargo alguno.\n\nEl titular podrá en cualquier momento solicitar el retiro o bloqueo de sus datos de los bancos de datos a los que se refiere el presente artículo.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "22",
+      "title": "Datos relativos a la actividad comercial o crediticia",
+      "content": "Queda expresamente autorizado el tratamiento de datos destinado a informar sobre la solvencia patrimonial o crediticia, incluyendo aquellos relativos al cumplimiento o incumplimiento de obligaciones de carácter comercial o crediticia que permitan evaluar la concertación de negocios en general, la conducta comercial o la capacidad de pago del titular de los datos, en aquellos casos en que los mismos sean obtenidos de fuentes de acceso público o procedentes de informaciones facilitadas por el acreedor o en las circunstancias previstas en la presente ley. Para el caso de las personas jurídicas, además de las circunstancias previstas en la presente ley, se permite el tratamiento de toda información autorizada por la normativa vigente.\n\nLos datos personales relativos a obligaciones de carácter comercial de personas físicas sólo podrán estar registrados por un plazo de cinco años contados desde su incorporación. En caso que al vencimiento de dicho plazo la obligación permanezca incumplida, el acreedor podrá solicitar al responsable de la base de datos, por única vez, su nuevo registro por otros cinco años. Este nuevo registro deberá ser solicitado en el plazo de treinta días anteriores al vencimiento original. Las obligaciones canceladas o extinguidas por cualquier medio, permanecerán registradas, con expresa mención de este hecho, por un plazo máximo de cinco años, no renovable, a contar de la fecha de la cancelación o extinción.\n\nLos responsables de las bases de datos se limitarán a realizar el tratamiento objetivo de la información registrada tal cual ésta le fuera suministrada, debiendo abstenerse de efectuar valoraciones subjetivas sobre la misma.\n\nCuando se haga efectiva la cancelación de cualquier obligación incumplida registrada en una base de datos, el acreedor deberá en un plazo máximo de cinco días hábiles de acontecido el hecho, comunicarlo al responsable de la base de datos o tratamiento correspondiente. Una vez recibida la comunicación por el responsable de la base de datos o tratamiento, éste dispondrá de un plazo máximo de tres días hábiles para proceder a la actualización del dato, asentando su nueva situación.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "23",
+      "title": "Datos transferidos internacionalmente",
+      "content": "Se prohíbe la transferencia de datos personales de cualquier tipo con países u organismos internacionales que no proporcionen niveles de protección adecuados de acuerdo a los estándares del Derecho Internacional o Regional en la materia.\n\nLa prohibición no regirá cuando se trate de:\n\n1) Cooperación judicial internacional, de acuerdo al respectivo instrumento internacional, ya sea Tratado o Convención, atendidas las circunstancias del caso.\n\n2) Intercambio de datos de carácter médico, cuando así lo exija el tratamiento del afectado por razones de salud o higiene públicas.\n\n3) Transferencias bancarias o bursátiles, en lo relativo a las transacciones respectivas y conforme la legislación que les resulte aplicable.\n\n4) Acuerdos en el marco de tratados internacionales en los cuales la República Oriental del Uruguay sea parte.\n\n5) Cooperación internacional entre organismos de inteligencia para la lucha contra el crimen organizado, el terrorismo y el narcotráfico.\n\nTambién será posible realizar la transferencia internacional de datos en los siguientes supuestos:\n\nA) Que el interesado haya dado su consentimiento inequívocamente a la transferencia prevista.\n\nB) Que la transferencia sea necesaria para la ejecución de un contrato entre el interesado y el responsable del tratamiento o para la ejecución de medidas precontractuales tomadas a petición del interesado.\n\nC) Que la transferencia sea necesaria para la celebración o ejecución de un contrato celebrado o por celebrar en interés del interesado, entre el responsable del tratamiento y un tercero.\n\nD) Que la transferencia sea necesaria o legalmente exigida para la salvaguardia de un interés público importante, o para el reconocimiento, ejercicio o defensa de un derecho en un procedimiento judicial.\n\nE) Que la transferencia sea necesaria para la salvaguardia del interés vital del interesado.\n\nF) Que la transferencia tenga lugar desde un registro que, en virtud de disposiciones legales o reglamentarias, esté concebido para facilitar información al público y esté abierto a la consulta por el público en general o por cualquier persona que pueda demostrar un interés legítimo, siempre que se cumplan, en cada caso particular, las condiciones que establece la ley para su consulta.\n\nSin perjuicio de lo dispuesto en el primer inciso de este artículo, la Unidad Reguladora y de Control de Protección de Datos Personales podrá autorizar una transferencia o una serie de transferencias de datos personales a un tercer país que no garantice un nivel adecuado de protección, cuando el responsable del tratamiento ofrezca garantías suficientes respecto a la protección de la vida privada, de los derechos y libertades fundamentales de las personas, así como respecto al ejercicio de los respectivos derechos.\n\nDichas garantías podrán derivarse de cláusulas contractuales apropiadas.",
+      "topic": "international_transfer"
+    },
+    {
+      "article_ref": "24",
+      "title": "Creación, modificación o supresión",
+      "content": "La creación, modificación o supresión de bases de datos pertenecientes a organismos públicos deberán registrarse conforme lo previsto en el artículo 29 de la presente ley.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "25",
+      "title": "Bases de datos correspondientes a las Fuerzas Armadas, Organismos Policiales o de Inteligencia",
+      "content": "Quedarán sujetos al régimen de la presente ley, los datos personales que por haberse almacenado para fines administrativos, deban ser objeto de registro permanente en las bases de datos de las fuerzas armadas, organismos policiales o de inteligencia; y aquellos sobre antecedentes personales que proporcionen dichas bases de datos a las autoridades administrativas o judiciales que los requieran en virtud de disposiciones legales.\n\nEl tratamiento de datos personales con fines de defensa nacional o seguridad pública por parte de las fuerzas armadas, organismos policiales o inteligencia, sin previo consentimiento de los titulares, queda limitado a aquellos supuestos y categoría de datos que resulten necesarios para el estricto cumplimiento de las misiones legalmente asignadas a aquéllos para la defensa nacional, la seguridad pública o para la represión de los delitos. Las bases de datos, en tales casos, deberán ser específicas y establecidas al efecto, debiendo clasificarse por categorías, en función de su grado de fiabilidad.\n\nLos datos personales registrados con fines policiales se cancelarán cuando no sean necesarios para las averiguaciones que motivaron su almacenamiento.",
+      "topic": "scope"
+    },
+    {
+      "article_ref": "26",
+      "title": "Excepciones a los derechos de acceso, rectificación y cancelación",
+      "content": "Los responsables de las bases de datos que contengan los datos a que se refieren los incisos segundo y tercero del artículo anterior podrán denegar el acceso, la rectificación o cancelación en función de los peligros que pudieran derivarse para la defensa del Estado o la seguridad pública, la protección de los derechos y libertades de terceros o las necesidades de las investigaciones que se estén realizando.\n\nLos responsables de las bases de datos de la Hacienda Pública podrán, igualmente, denegar el ejercicio de los derechos a que se refiere el inciso anterior cuando el mismo obstaculice las actuaciones administrativas tendientes a asegurar el cumplimiento de las obligaciones tributarias y, en todo caso, cuando el titular del dato esté siendo objeto de actuaciones inspectivas.\n\nEl titular del dato al que se deniegue total o parcialmente el ejercicio de los derechos mencionados en los incisos anteriores podrá ponerlo en conocimiento del Órgano de Control, quien deberá asegurarse de la procedencia o improcedencia de la denegación.",
+      "topic": "data_subject_rights"
+    },
+    {
+      "article_ref": "27",
+      "title": "Excepciones al derecho a la información",
+      "content": "Lo dispuesto en la presente ley no será aplicable a la recolección de datos, cuando la información del titular afecte a la defensa nacional, a la seguridad pública o a la persecución de infracciones penales.",
+      "topic": "data_subject_rights"
+    },
+    {
+      "article_ref": "28",
+      "title": "Creación, modificación o supresión",
+      "content": "Las personas físicas o jurídicas privadas que creen, modifiquen o supriman bases de datos de carácter personal, que no sean para un uso exclusivamente individual o doméstico, deberán registrarse conforme lo previsto en el artículo 29 de la presente ley.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "29",
+      "title": "Inscripción registral",
+      "content": "Toda base de datos pública o privada debe inscribirse en el Registro que al efecto habilite el Órgano de Control, de acuerdo a los criterios reglamentarios que se establezcan.\n\nPor vía reglamentaria se procederá a la regulación detallada de los distintos extremos que deberá contener la inscripción, entre los cuales figurarán necesariamente los siguientes:\n\nA) Identificación de la base de datos y el responsable de la misma.\n\nB) Naturaleza de los datos personales que contiene.\n\nC) Procedimientos de obtención y tratamiento de los datos.\n\nD) Medidas de seguridad y técnicas de protección.\n\nE) Obligaciones asumidas en cuanto a la confidencialidad de los datos.\n\nF) Destino de los datos y personas físicas o jurídicas a las que pueden ser comunicados.\n\nG) Tiempo de conservación de los datos.\n\nH) Forma y condiciones en que las personas pueden acceder a los datos referidos a ellas y los procedimientos a realizar para la rectificación o actualización de los datos.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "30",
+      "title": "Prestación de servicios informatizados de datos personales",
+      "content": "Cuando por cuenta de terceros se presten servicios de tratamiento de datos personales, éstos no podrán aplicarse o utilizarse con un fin distinto al que figure en el contrato de servicios, ni cederlos a otras personas, ni aún para su conservación.\n\nUna vez cumplida la prestación contractual los datos personales tratados deberán ser destruidos, salvo que medie autorización expresa de aquél por cuenta de quien se prestan tales servicios cuando razonablemente se presuma la posibilidad de ulteriores encargos, en cuyo caso se podrá almacenar con las debidas condiciones de seguridad por un período de hasta dos años.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "31",
+      "title": "Órgano de Control",
+      "content": "Créase como órgano desconcentrado de la Agencia para el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la Información y del Conocimiento (AGESIC), dotado de la más amplia autonomía técnica, la Unidad Reguladora y de Control de Datos Personales.\n\nEstará dirigida por un Consejo integrado por tres miembros: el Director Ejecutivo de AGESIC y dos miembros designados por el Poder Ejecutivo entre personas que por sus antecedentes personales, profesionales y de conocimiento en la materia aseguren independencia de criterio, eficiencia, objetividad e imparcialidad en el desempeño de sus cargos.\n\nA excepción del Director Ejecutivo de la AGESIC, los miembros durarán cuatro años en sus cargos, pudiendo ser designados nuevamente. Sólo cesarán por la expiración de su mandato y designación de sus sucesores, o por su remoción dispuesta por el Poder Ejecutivo en los casos de ineptitud, omisión o delito, conforme a las garantías del debido proceso.\n\nDurante su mandato no recibirán órdenes ni instrucciones en el plano técnico.",
+      "topic": "dpa_authority"
+    },
+    {
+      "article_ref": "32",
+      "title": "Consejo Consultivo",
+      "content": "El Consejo Ejecutivo de la Unidad Reguladora y de Control de Datos Personales funcionará asistido por un Consejo Consultivo, que estará integrado por cinco miembros:\n\nUna persona con reconocida trayectoria en la promoción y defensa de los derechos humanos, designado por el Poder Legislativo, el que no podrá ser un Legislador en actividad.\n\nUn representante del Poder Judicial.\n\nUn representante del Ministerio Público.\n\nUn representante del área académica.\n\nUn representante del sector privado, que se elegirá en la forma establecida reglamentariamente.\n\nSesionará presidido por el Presidente de la Unidad Reguladora y de Control de Protección de Datos Personales. Sus integrantes durarán cuatro años en sus cargos y sesionarán a convocatoria del Presidente de la Unidad Reguladora y de Control de Datos Personales o de la mayoría de sus miembros.\n\nPodrá ser consultado por el Consejo Ejecutivo sobre cualquier aspecto de su competencia y deberá ser consultado por éste cuando ejerza potestades de reglamentación.",
+      "topic": "dpa_authority"
+    },
+    {
+      "article_ref": "33",
+      "title": "Recursos",
+      "content": "La Unidad Reguladora y de Control de Datos Personales formulará su propuesta de presupuesto de acuerdo a lo previsto en el artículo 214 de la Constitución de la República.",
+      "topic": "dpa_authority"
+    },
+    {
+      "article_ref": "34",
+      "title": "Cometidos",
+      "content": "El órgano de control deberá realizar todas las acciones necesarias para el cumplimiento de los objetivos y demás disposiciones de la presente ley. A tales efectos tendrá las siguientes funciones y atribuciones:\n\nA) Asistir y asesorar a las personas que lo requieran acerca de los alcances de la presente ley y de los medios legales de que dispongan para la defensa de los derechos que ésta garantiza.\n\nB) Dictar las normas y reglamentaciones que se deben observar en el desarrollo de las actividades comprendidas por esta ley.\n\nC) Realizar un censo de las bases de datos alcanzados por la ley y mantener el registro permanente de los mismos.\n\nD) Controlar la observancia de las normas sobre integridad, veracidad y seguridad de datos por parte de los responsables de las bases de datos, pudiendo a tales efectos realizar las actuaciones de inspección pertinentes.\n\nE) Solicitar información a las entidades públicas y privadas, las que deberán proporcionar los antecedentes, documentos, programas u otros elementos relativos al tratamiento de los datos personales que se le requieran.\n\nF) Emitir opinión toda vez que le sea requerida por las autoridades competentes, incluyendo solicitudes relacionadas con el dictado de sanciones administrativas que correspondan por la violación a las normas previstas en esta ley y sus reglamentaciones.\n\nG) Asesorar en forma necesaria al Poder Ejecutivo en la consideración de los proyectos de ley que refieran total o parcialmente a la protección de datos personales.\n\nH) Informar a cualquier persona sobre la existencia de bases de datos personales, sus finalidades y la identidad de sus responsables, en forma gratuita.\n\nI) Establecer los criterios y procedimientos que deban observar los responsables y encargados de las bases de datos o tratamientos en cuanto al tratamiento automatizado de datos personales previsto en el artículo 16 de la presente ley.",
+      "topic": "dpa_authority"
+    },
+    {
+      "article_ref": "35",
+      "title": "Potestades sancionatorias",
+      "content": "El órgano de control podrá aplicar a los responsables de las bases de datos, encargados del tratamiento de datos personales y demás sujetos alcanzados por el régimen de la presente ley, las siguientes medidas sancionatorias graduables en función de la gravedad y extensión de la violación y de los perjuicios derivados de la infracción, la reiteración o la reincidencia:\n\n1) Observación.\n\n2) Apercibimiento.\n\n3) Multa de hasta 500.000 UI (quinientas mil unidades indexadas).\n\n4) Suspensión de la base de datos respectiva por el plazo de cinco días.\n\n5) Clausura de la base de datos respectiva.\n\nEn los casos de reincidencia o infracciones muy graves el órgano de control podrá solicitar a la Justicia competente la clausura de la base de datos. Las resoluciones firmes del órgano de control que dispongan sanciones pecuniarias tendrán carácter de título ejecutivo.",
+      "topic": "sanctions"
+    },
+    {
+      "article_ref": "36",
+      "title": "Códigos de conducta",
+      "content": "Las asociaciones o entidades representativas de responsables o usuarios de bancos de datos de titularidad privada podrán elaborar códigos de conducta de práctica profesional, que establezcan normas para el tratamiento de datos personales que tiendan a asegurar y mejorar las condiciones de operación de los sistemas de información en función de los principios establecidos en la presente ley.\n\nDichos códigos deberán ser inscriptos en el registro que al efecto lleve el organismo de control, quien podrá denegar la inscripción cuando considere que no se ajustan a las disposiciones legales y reglamentarias sobre la materia.",
+      "topic": "controller_obligations"
+    },
+    {
+      "article_ref": "37",
+      "title": "Habeas Data",
+      "content": "Toda persona tendrá derecho a entablar una acción judicial efectiva para tomar conocimiento de los datos referidos a su persona y de su finalidad y uso, que consten en bases de datos públicos o privados; y -en caso de error, falsedad, prohibición de tratamiento, discriminación o desactualización- a exigir su rectificación, inclusión, supresión o lo que entienda corresponder.\n\nCuando se trate de datos personales cuyo registro esté amparado por una norma legal que consagre el secreto a su respecto, el Juez apreciará el levantamiento del mismo en atención a las circunstancias del caso.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "38",
+      "title": "Procedencia y competencia",
+      "content": "El titular de datos personales podrá entablar la acción de protección de datos personales o habeas data, contra todo responsable de una base de datos pública o privada, en los siguientes supuestos:\n\nA) Cuando quiera conocer sus datos personales que se encuentran registrados en una base de datos o similar y dicha información le haya sido denegada, o no le hubiese sido proporcionada por el responsable de la base de datos, en las oportunidades y plazos previstos por la ley.\n\nB) Cuando haya solicitado al responsable de la base de datos o tratamiento su rectificación, actualización, eliminación, inclusión o supresión y éste no hubiese procedido a ello o dado razones suficientes por las que no corresponde lo solicitado, en el plazo previsto al efecto en la ley.\n\nSerán competentes para conocer en las acciones de protección de datos personales o habeas data:\n\n1) En la Capital, los Juzgados Letrados de Primera Instancia en lo Contencioso Administrativo, cuando la acción se dirija contra una persona pública estatal, y los Juzgados Letrados de Primera Instancia en lo Civil en los restantes casos.\n\n2) Los Juzgados Letrados de Primera Instancia del Interior a quienes se haya asignado competencia en dichas materias.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "39",
+      "title": "Legitimación",
+      "content": "La acción de habeas data podrá ser ejercida por el propio afectado titular de los datos o sus representantes, ya sean tutores o curadores y, en caso de personas fallecidas, por sus sucesores universales, en línea directa o colateral hasta el segundo grado, por sí o por medio de apoderado.\n\nEn el caso de personas jurídicas, la acción deberá ser interpuesta por sus representantes legales o los apoderados designados a tales efectos.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "40",
+      "title": "Procedimiento",
+      "content": "Las acciones que se promuevan por violación a los derechos contemplados en la presente ley se regirán por las normas contenidas en los artículos que siguen al presente. Serán aplicables en lo pertinente los artículos 14 y 15 del Código General del Proceso.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "41",
+      "title": "Trámite de primera instancia",
+      "content": "Salvo que la acción fuera manifiestamente improcedente, en cuyo caso el tribunal la rechazará sin sustanciarla y dispondrá el archivo de las actuaciones, se convocará a las partes a una audiencia pública dentro del plazo de tres días de la fecha de la presentación de la demanda.\n\nEn dicha audiencia se oirán las explicaciones del demandado, se recibirán las pruebas y se producirán los alegatos.\n\nLa sentencia se dictará en la audiencia o a más tardar, dentro de las veinticuatro horas de su celebración. Sólo en casos excepcionales podrá prorrogarse la audiencia por hasta tres días.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "42",
+      "title": "Medidas provisionales",
+      "content": "Si de la demanda o en cualquier otro momento del proceso resultare, a juicio del tribunal, la necesidad de su inmediata actuación, éste dispondrá, con carácter provisional, las medidas que correspondieren en amparo del derecho o libertad presuntamente violados.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "43",
+      "title": "Contenido de la sentencia",
+      "content": "La sentencia que haga lugar al habeas data deberá contener:\n\nA) La identificación concreta de la autoridad o el particular a quien se dirija y contra cuya acción, hecho u omisión se conceda el habeas data.\n\nB) La determinación precisa de lo que deba o no deba hacerse y el plazo por el cual dicha resolución regirá, si es que corresponde fijarlo.\n\nC) El plazo para el cumplimiento de lo dispuesto, que será fijado por el tribunal conforme las circunstancias de cada caso, y no será mayor de quince días corridos e ininterrumpidos, computados a partir de la notificación.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "44",
+      "title": "Recurso de apelación",
+      "content": "En el proceso de habeas data sólo serán apelables la sentencia definitiva y la que rechaza la acción por ser manifiestamente improcedente.\n\nEl recurso de apelación deberá interponerse en escrito fundado, dentro del plazo perentorio de tres días.\n\nEl tribunal elevará sin más trámite los autos al superior cuando hubiere desestimado la acción por improcedencia manifiesta, y lo sustanciará con un traslado a la contraparte, por tres días perentorios, cuando la sentencia apelada fuese la definitiva.\n\nEl tribunal de alzada resolverá en acuerdo, dentro de los cuatro días siguientes a la recepción de los autos.\n\nLa interposición del recurso no suspenderá las medidas de amparo decretadas, las cuales serán cumplidas inmediatamente después de notificada la sentencia, sin necesidad de tener que esperar el transcurso del plazo para su impugnación.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "45",
+      "title": "Sumariedad",
+      "content": "En los procesos de habeas data no podrán deducirse cuestiones previas, reconvenciones ni incidentes. El tribunal, a petición de parte o de oficio, subsanará los vicios de procedimiento, asegurando, dentro de la naturaleza sumaria del proceso, la vigencia del principio de contradictorio.\n\nCuando se planteare la inconstitucionalidad por vía de excepción o de oficio (artículos 509 numeral 2 y 510 numeral 2 del Código General del Proceso) se procederá a la suspensión del procedimiento sólo después que el Magistrado actuante haya dispuesto la adopción de las medidas provisorias referidas en la presente ley o, en su caso, dejando constancia circunstanciada de las razones de considerarlas innecesarias.",
+      "topic": "enforcement"
+    },
+    {
+      "article_ref": "46",
+      "title": "Adecuación de bases de datos",
+      "content": "Las bases de datos deberán adecuarse a la presente ley dentro del plazo de un año de su entrada en vigor.",
+      "topic": "scope"
+    },
+    {
+      "article_ref": "47",
+      "title": "Traslado del órgano de control",
+      "content": "Se establece el plazo de ciento veinte días corridos para que el actual órgano de control en materia de protección de datos comerciales realice el traslado de la información y documentación a la AGESIC.",
+      "topic": "dpa_authority"
+    },
+    {
+      "article_ref": "48",
+      "title": "Derogación",
+      "content": "Se deroga la Ley N° 17.838, de 24 de setiembre de 2004.",
+      "topic": "scope"
+    },
+    {
+      "article_ref": "49",
+      "title": "Reglamentación",
+      "content": "El Poder Ejecutivo deberá reglamentar la presente ley dentro de los ciento ochenta días de su promulgación.",
+      "topic": "scope"
+    }
+  ]
+}
