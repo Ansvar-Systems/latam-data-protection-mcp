@@ -18,7 +18,7 @@ export const TOOL_DEFINITIONS = [
     inputSchema: {
       type: 'object' as const,
       properties: {
-        query: { type: 'string', description: 'Search query (e.g., "consent", "data breach", "transfer")' },
+        query: { type: 'string', minLength: 1, description: 'Search query (e.g., "consent", "data breach", "transfer")' },
         country: {
           type: 'string',
           description: 'Filter by country code: BR, AR, CO, CL, UY, MX, CR',

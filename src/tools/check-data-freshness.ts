@@ -60,6 +60,6 @@ export function checkDataFreshness(db: Database) {
     total_sources: sources.length,
     sources: freshness,
     countries: countryFreshness,
-    _meta: buildMeta(),
+    _metadata: buildMeta(),
   };
 }

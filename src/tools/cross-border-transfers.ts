@@ -22,7 +22,7 @@ export function getCrossBorderTransferRules(db: Database, input: GetCrossBorderT
       country: countryCode,
       country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
       message: `No cross-border transfer rules found for ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}.`,
-      _meta: buildMeta(),
+      _metadata: buildMeta(),
     };
   }
 
@@ -31,6 +31,6 @@ export function getCrossBorderTransferRules(db: Database, input: GetCrossBorderT
     country: countryCode,
     country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
     rules,
-    _meta: buildMeta(),
+    _metadata: buildMeta(),
   };
 }

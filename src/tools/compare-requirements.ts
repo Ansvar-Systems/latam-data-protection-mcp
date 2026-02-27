@@ -39,6 +39,6 @@ export function compareRequirements(db: Database, input: CompareRequirementsInpu
     topic: input.topic,
     countries_compared: countryCodes.length,
     comparison,
-    _meta: buildMeta(),
+    _metadata: buildMeta(),
   };
 }

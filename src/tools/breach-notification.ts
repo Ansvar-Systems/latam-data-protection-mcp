@@ -22,7 +22,7 @@ export function getBreachNotificationRules(db: Database, input: GetBreachNotific
       country: countryCode,
       country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
       message: `No breach notification rules found for ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}.`,
-      _meta: buildMeta(),
+      _metadata: buildMeta(),
     };
   }
 
@@ -31,6 +31,6 @@ export function getBreachNotificationRules(db: Database, input: GetBreachNotific
     country: countryCode,
     country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
     rules,
-    _meta: buildMeta(),
+    _metadata: buildMeta(),
   };
 }

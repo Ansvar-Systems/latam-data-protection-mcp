@@ -4,18 +4,22 @@
   "generated": "2026-02-27",
   "summary": {
     "total_sources": 7,
-    "total_provisions": 0,
+    "total_provisions": 335,
     "countries": 7,
-    "status": "scaffolded"
+    "data_subject_rights": 45,
+    "breach_notification_rules": 7,
+    "cross_border_transfer_rules": 7,
+    "dpa_authorities": 7,
+    "status": "complete"
   },
   "sources": [
-    { "id": "br-lgpd", "name": "LGPD", "country": "BR", "item_count": 0, "status": "pending", "last_refresh": null },
-    { "id": "ar-lpdp", "name": "LPDP (Law 25.326)", "country": "AR", "item_count": 0, "status": "pending", "last_refresh": null },
-    { "id": "co-law-1581", "name": "Law 1581/2012", "country": "CO", "item_count": 0, "status": "pending", "last_refresh": null },
-    { "id": "cl-law-19628", "name": "Law 19.628", "country": "CL", "item_count": 0, "status": "pending", "last_refresh": null },
-    { "id": "uy-law-18331", "name": "Law 18.331", "country": "UY", "item_count": 0, "status": "pending", "last_refresh": null },
-    { "id": "mx-lfpdppp", "name": "LFPDPPP", "country": "MX", "item_count": 0, "status": "pending", "last_refresh": null },
-    { "id": "cr-law-8968", "name": "Law 8968", "country": "CR", "item_count": 0, "status": "pending", "last_refresh": null }
+    { "id": "br-lgpd", "name": "LGPD", "country": "BR", "item_count": 80, "status": "complete", "last_refresh": "2026-02-27" },
+    { "id": "ar-lpdp", "name": "LPDP (Law 25.326)", "country": "AR", "item_count": 48, "status": "complete", "last_refresh": "2026-02-27" },
+    { "id": "co-law-1581", "name": "Law 1581/2012", "country": "CO", "item_count": 30, "status": "complete", "last_refresh": "2026-02-27" },
+    { "id": "cl-law-19628", "name": "Law 19.628", "country": "CL", "item_count": 27, "status": "complete", "last_refresh": "2026-02-27" },
+    { "id": "uy-law-18331", "name": "Law 18.331", "country": "UY", "item_count": 49, "status": "complete", "last_refresh": "2026-02-27" },
+    { "id": "mx-lfpdppp", "name": "LFPDPPP", "country": "MX", "item_count": 64, "status": "complete", "last_refresh": "2026-02-27" },
+    { "id": "cr-law-8968", "name": "Law 8968", "country": "CR", "item_count": 37, "status": "complete", "last_refresh": "2026-02-27" }
   ],
   "gaps": [
     { "id": "gap-1", "description": "DPA enforcement decisions not ingested", "impact": "medium", "planned": true },
