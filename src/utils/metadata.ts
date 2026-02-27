@@ -1,21 +1,34 @@
-import { toIsoDate } from '../tools/common.js';
-
-export interface ResponseMeta {
+export interface ResponseMetadata {
   disclaimer: string;
-  data_age: string;
+  data_freshness: {
+    last_ingested: string;
+    staleness_warning: string | null;
+  };
+  source_authority: string;
+  ai_disclosure: string;
   server: string;
   version: string;
 }
 
-const DISCLAIMER =
-  'Reference tool only. Not legal advice. Verify against official gazettes and consult qualified legal counsel.';
+const STALE_THRESHOLD_DAYS = 90;
 
-export function buildMeta(overrides?: Partial<ResponseMeta>): ResponseMeta {
+export function buildMeta(): ResponseMetadata {
+  const lastIngested = '2026-02-27';
+  const daysSince = Math.floor(
+    (Date.now() - new Date(lastIngested).getTime()) / (1000 * 60 * 60 * 24)
+  );
+
   return {
-    disclaimer: DISCLAIMER,
-    data_age: toIsoDate(),
+    disclaimer: 'Reference tool only. Not legal advice. Verify against official gazettes and consult qualified legal counsel.',
+    data_freshness: {
+      last_ingested: lastIngested,
+      staleness_warning: daysSince > STALE_THRESHOLD_DAYS
+        ? `Data is ${daysSince} days old. Re-run ingestion to refresh.`
+        : null,
+    },
+    source_authority: 'Official government legal portals: planalto.gov.br, infoleg.gob.ar, funcionpublica.gov.co, bcn.cl, impo.com.uy, diputados.gob.mx, pgrweb.go.cr',
+    ai_disclosure: 'This data is served by an MCP server for AI assistant consumption. Always verify citations against primary sources.',
     server: 'latam-data-protection-mcp',
     version: '0.1.0',
-    ...overrides,
   };
 }

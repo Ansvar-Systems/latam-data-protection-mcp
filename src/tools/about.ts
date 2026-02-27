@@ -36,6 +36,6 @@ export function about(db: Database) {
     publisher: 'Ansvar Systems AB',
     license: 'Apache-2.0',
     repository: 'https://github.com/Ansvar-Systems/latam-data-protection-mcp',
-    _meta: buildMeta(),
+    _metadata: buildMeta(),
   };
 }

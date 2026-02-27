@@ -25,13 +25,13 @@ export function getProvision(db: Database, input: GetProvisionInput) {
       country: countryCode,
       article: input.article,
       message: `No provision found for article ${input.article} in ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}.`,
-      _meta: buildMeta(),
+      _metadata: buildMeta(),
     };
   }
 
   return {
     found: true,
     provision: row,
-    _meta: buildMeta(),
+    _metadata: buildMeta(),
   };
 }

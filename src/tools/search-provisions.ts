@@ -1,5 +1,6 @@
 import type Database from '@ansvar/mcp-sqlite';
-import { clampLimit, buildFtsQuery, toIsoDate } from './common.js';
+import { clampLimit, buildFtsQuery } from './common.js';
+import { buildMeta } from '../utils/metadata.js';
 
 export interface SearchProvisionsInput {
   query: string;
@@ -17,10 +18,7 @@ export function searchProvisions(db: Database, input: SearchProvisionsInput) {
       query: input.query,
       count: 0,
       results: [],
-      _meta: {
-        disclaimer: 'Reference tool only. Not legal advice. Verify against official gazettes.',
-        data_age: toIsoDate(),
-      },
+      _metadata: buildMeta(),
       message: 'Query is empty or contains only special characters.',
     };
   }
@@ -52,9 +50,6 @@ export function searchProvisions(db: Database, input: SearchProvisionsInput) {
     query: input.query,
     count: rows.length,
     results: rows,
-    _meta: {
-      disclaimer: 'Reference tool only. Not legal advice. Verify against official gazettes.',
-      data_age: toIsoDate(),
-    },
+    _metadata: buildMeta(),
   };
 }
