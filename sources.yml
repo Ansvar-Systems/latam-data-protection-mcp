@@ -1,0 +1,63 @@
+sources:
+  - id: br-lgpd
+    full_name: Lei Geral de Proteção de Dados (LGPD)
+    authority: Autoridade Nacional de Proteção de Dados (ANPD)
+    jurisdiction: Brazil
+    instrument_type: legislation
+    source_url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    license: Public domain (Brazilian federal legislation)
+    update_frequency: monthly
+
+  - id: ar-lpdp
+    full_name: Ley de Protección de Datos Personales (Law 25.326)
+    authority: Agencia de Acceso a la Información Pública (AAIP)
+    jurisdiction: Argentina
+    instrument_type: legislation
+    source_url: https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm
+    license: Public domain (Argentine federal legislation)
+    update_frequency: monthly
+
+  - id: co-law-1581
+    full_name: Ley Estatutaria 1581 de 2012
+    authority: Superintendencia de Industria y Comercio (SIC)
+    jurisdiction: Colombia
+    instrument_type: legislation
+    source_url: https://www.suin-juriscol.gov.co/
+    license: Public domain (Colombian legislation)
+    update_frequency: monthly
+
+  - id: cl-law-19628
+    full_name: Ley 19.628 sobre Protección de la Vida Privada
+    authority: Consejo para la Transparencia (CPLT)
+    jurisdiction: Chile
+    instrument_type: legislation
+    source_url: https://www.bcn.cl/leychile/
+    license: Public domain (Chilean legislation)
+    update_frequency: monthly
+
+  - id: uy-law-18331
+    full_name: Ley 18.331 de Protección de Datos Personales
+    authority: Unidad Reguladora y de Control de Datos Personales (URCDP)
+    jurisdiction: Uruguay
+    instrument_type: legislation
+    source_url: https://www.impo.com.uy/
+    license: Public domain (Uruguayan legislation)
+    update_frequency: monthly
+
+  - id: mx-lfpdppp
+    full_name: Ley Federal de Protección de Datos Personales en Posesión de los Particulares
+    authority: Instituto Nacional de Transparencia (INAI)
+    jurisdiction: Mexico
+    instrument_type: legislation
+    source_url: https://www.diputados.gob.mx/LeyesBiblio/
+    license: Public domain (Mexican federal legislation)
+    update_frequency: monthly
+
+  - id: cr-law-8968
+    full_name: Ley de Protección de la Persona frente al Tratamiento de sus Datos Personales (Law 8968)
+    authority: Agencia de Protección de Datos (PRODHAB)
+    jurisdiction: Costa Rica
+    instrument_type: legislation
+    source_url: https://www.pgrweb.go.cr/
+    license: Public domain (Costa Rican legislation)
+    update_frequency: monthly

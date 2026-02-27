@@ -1,0 +1,25 @@
+{
+  "server": "latam-data-protection-mcp",
+  "version": "0.1.0",
+  "generated": "2026-02-27",
+  "summary": {
+    "total_sources": 7,
+    "total_provisions": 0,
+    "countries": 7,
+    "status": "scaffolded"
+  },
+  "sources": [
+    { "id": "br-lgpd", "name": "LGPD", "country": "BR", "item_count": 0, "status": "pending", "last_refresh": null },
+    { "id": "ar-lpdp", "name": "LPDP (Law 25.326)", "country": "AR", "item_count": 0, "status": "pending", "last_refresh": null },
+    { "id": "co-law-1581", "name": "Law 1581/2012", "country": "CO", "item_count": 0, "status": "pending", "last_refresh": null },
+    { "id": "cl-law-19628", "name": "Law 19.628", "country": "CL", "item_count": 0, "status": "pending", "last_refresh": null },
+    { "id": "uy-law-18331", "name": "Law 18.331", "country": "UY", "item_count": 0, "status": "pending", "last_refresh": null },
+    { "id": "mx-lfpdppp", "name": "LFPDPPP", "country": "MX", "item_count": 0, "status": "pending", "last_refresh": null },
+    { "id": "cr-law-8968", "name": "Law 8968", "country": "CR", "item_count": 0, "status": "pending", "last_refresh": null }
+  ],
+  "gaps": [
+    { "id": "gap-1", "description": "DPA enforcement decisions not ingested", "impact": "medium", "planned": true },
+    { "id": "gap-2", "description": "Regulatory guidance documents not included", "impact": "medium", "planned": true },
+    { "id": "gap-3", "description": "Sub-national regulations not covered", "impact": "low", "planned": false }
+  ]
+}
