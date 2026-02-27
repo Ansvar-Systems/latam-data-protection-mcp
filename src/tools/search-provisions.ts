@@ -1,5 +1,5 @@
 import type Database from '@ansvar/mcp-sqlite';
-import { clampLimit, escapeFTS5Query, toIsoDate } from './common.js';
+import { clampLimit, buildFtsQuery, toIsoDate } from './common.js';
 
 export interface SearchProvisionsInput {
   query: string;
@@ -10,7 +10,20 @@ export interface SearchProvisionsInput {
 
 export function searchProvisions(db: Database, input: SearchProvisionsInput) {
   const limit = clampLimit(input.limit);
-  const ftsQuery = escapeFTS5Query(input.query);
+  const ftsQuery = buildFtsQuery(input.query);
+
+  if (!ftsQuery) {
+    return {
+      query: input.query,
+      count: 0,
+      results: [],
+      _meta: {
+        disclaimer: 'Reference tool only. Not legal advice. Verify against official gazettes.',
+        data_age: toIsoDate(),
+      },
+      message: 'Query is empty or contains only special characters.',
+    };
+  }
 
   let sql = `
     SELECT p.id, p.country_code, p.law_id, p.article_ref, p.title,
