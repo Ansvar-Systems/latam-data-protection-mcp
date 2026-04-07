@@ -1,6 +1,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { COUNTRY_NAMES, type CountryCode } from './common.js';
 import { buildMeta } from '../utils/metadata.js';
+import { buildCitation } from '../utils/citation.js';
 
 export interface GetBreachNotificationRulesInput {
   country: string;
@@ -31,6 +32,12 @@ export function getBreachNotificationRules(db: Database, input: GetBreachNotific
     country: countryCode,
     country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
     rules,
+    _citation: buildCitation(
+      `${countryCode} Breach Notification`,
+      `Breach notification rules in ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}`,
+      'get_breach_notification_rules',
+      { country: countryCode },
+    ),
     _metadata: buildMeta(),
   };
 }

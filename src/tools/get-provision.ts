@@ -1,6 +1,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { COUNTRY_NAMES, type CountryCode } from './common.js';
 import { buildMeta } from '../utils/metadata.js';
+import { buildCitation } from '../utils/citation.js';
 
 export interface GetProvisionInput {
   country: string;
@@ -29,9 +30,16 @@ export function getProvision(db: Database, input: GetProvisionInput) {
     };
   }
 
+  const r = row as Record<string, unknown>;
   return {
     found: true,
     provision: row,
+    _citation: buildCitation(
+      `${input.country.toUpperCase()} ${input.article}`,
+      String(r.title ?? `${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode} ${input.article}`),
+      'get_provision',
+      { country: input.country.toUpperCase(), article: input.article },
+    ),
     _metadata: buildMeta(),
   };
 }

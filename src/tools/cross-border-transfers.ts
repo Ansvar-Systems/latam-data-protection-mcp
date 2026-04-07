@@ -1,6 +1,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { COUNTRY_NAMES, type CountryCode } from './common.js';
 import { buildMeta } from '../utils/metadata.js';
+import { buildCitation } from '../utils/citation.js';
 
 export interface GetCrossBorderTransferRulesInput {
   country: string;
@@ -31,6 +32,12 @@ export function getCrossBorderTransferRules(db: Database, input: GetCrossBorderT
     country: countryCode,
     country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
     rules,
+    _citation: buildCitation(
+      `${countryCode} Cross-Border Transfers`,
+      `Cross-border transfer rules in ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}`,
+      'get_cross_border_transfer_rules',
+      { country: countryCode },
+    ),
     _metadata: buildMeta(),
   };
 }
