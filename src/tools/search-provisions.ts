@@ -18,7 +18,7 @@ export function searchProvisions(db: Database, input: SearchProvisionsInput) {
       query: input.query,
       count: 0,
       results: [],
-      _metadata: buildMeta(),
+      _meta: buildMeta(),
       message: 'Query is empty or contains only special characters.',
     };
   }
@@ -50,6 +50,6 @@ export function searchProvisions(db: Database, input: SearchProvisionsInput) {
     query: input.query,
     count: rows.length,
     results: rows,
-    _metadata: buildMeta(),
+    _meta: buildMeta(),
   };
 }

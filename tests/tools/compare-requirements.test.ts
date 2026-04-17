@@ -54,11 +54,11 @@ describe('compare_requirements', () => {
     }
   });
 
-  it('includes _metadata in response', () => {
+  it('includes _meta in response', () => {
     const result = instance.callTool('compare_requirements', {
       countries: ['BR', 'AR'],
       topic: 'consent',
     }) as any;
-    expect(result._metadata).toBeDefined();
+    expect(result._meta).toBeDefined();
   });
 });

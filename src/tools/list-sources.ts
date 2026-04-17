@@ -20,6 +20,6 @@ export function listSources(db: Database) {
       laws: lawCount,
       provisions: provisionCount,
     },
-    _metadata: buildMeta(),
+    _meta: buildMeta(),
   };
 }

@@ -23,7 +23,7 @@ export function getDataSubjectRights(db: Database, input: GetDataSubjectRightsIn
       country: countryCode,
       country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
       message: `No data subject rights found for ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}.`,
-      _metadata: buildMeta(),
+      _meta: buildMeta(),
     };
   }
 
@@ -39,6 +39,6 @@ export function getDataSubjectRights(db: Database, input: GetDataSubjectRightsIn
       'get_data_subject_rights',
       { country: countryCode },
     ),
-    _metadata: buildMeta(),
+    _meta: buildMeta(),
   };
 }

@@ -26,7 +26,7 @@ export function getProvision(db: Database, input: GetProvisionInput) {
       country: countryCode,
       article: input.article,
       message: `No provision found for article ${input.article} in ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}.`,
-      _metadata: buildMeta(),
+      _meta: buildMeta(),
     };
   }
 
@@ -40,6 +40,6 @@ export function getProvision(db: Database, input: GetProvisionInput) {
       'get_provision',
       { country: input.country.toUpperCase(), article: input.article },
     ),
-    _metadata: buildMeta(),
+    _meta: buildMeta(),
   };
 }

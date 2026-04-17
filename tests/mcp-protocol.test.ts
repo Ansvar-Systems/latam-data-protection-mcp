@@ -56,7 +56,7 @@ describe('MCP protocol', () => {
     const result = instance.callTool('about', {}) as any;
     expect(result.name).toBe('latam-data-protection-mcp');
     expect(result.version).toBeTruthy();
-    expect(result._metadata).toBeDefined();
+    expect(result._meta).toBeDefined();
   });
 
   it('callTool throws for unknown tool', () => {
@@ -77,12 +77,12 @@ describe('MCP protocol', () => {
       country: 'BR',
     }) as any;
     expect(result).toBeDefined();
-    expect(result._metadata).toBeDefined();
+    expect(result._meta).toBeDefined();
   });
 
   it('get_dpa_info returns DPA information for BR', () => {
     const result = instance.callTool('get_dpa_info', { country: 'BR' }) as any;
     expect(result).toBeDefined();
-    expect(result._metadata).toBeDefined();
+    expect(result._meta).toBeDefined();
   });
 });
