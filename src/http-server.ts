@@ -100,9 +100,20 @@ async function main(): Promise<void> {
         const mcpInstance = createMCPServer();
         await mcpInstance.server.connect(transport);
 
+        // Reentrancy guard: mcpInstance.close() can synchronously re-fire
+        // transport.onclose through the SDK, which would re-enter this handler
+        // and recurse until the stack overflows ("RangeError: Maximum call
+        // stack size exceeded" observed in prod logs). Also chain to the SDK's
+        // internal _onclose wrapper (set by server.connect) to preserve its
+        // cleanup of _responseHandlers, _progressHandlers, and in-flight aborts.
+        const sdkOnClose = transport.onclose;
+        let closing = false;
         transport.onclose = () => {
+          if (closing) return;
+          closing = true;
           if (transport.sessionId) sessions.delete(transport.sessionId);
           mcpInstance.close();
+          sdkOnClose?.();
         };
 
         await transport.handleRequest(req, res);
