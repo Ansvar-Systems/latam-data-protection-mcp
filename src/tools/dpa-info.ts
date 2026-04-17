@@ -23,7 +23,7 @@ export function getDpaInfo(db: Database, input: GetDpaInfoInput) {
       country: countryCode,
       country_name: COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode,
       message: `No DPA information found for ${COUNTRY_NAMES[countryCode as CountryCode] ?? countryCode}.`,
-      _metadata: buildMeta(),
+      _meta: buildMeta(),
     };
   }
 
@@ -39,6 +39,6 @@ export function getDpaInfo(db: Database, input: GetDpaInfoInput) {
       'get_dpa_info',
       { country: countryCode },
     ),
-    _metadata: buildMeta(),
+    _meta: buildMeta(),
   };
 }
